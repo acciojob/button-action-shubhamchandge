@@ -7,7 +7,7 @@ function App() {
   const handlechange = () => {
     SetisClicked("Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy");
   }
-  console.log(SetisClicked);
+ 
   return (
     <div id="main">
       <p id="para">{isClicked}</p>
